@@ -14,8 +14,8 @@
   "project": {
     "github_org": "raymondhyser",
     "is_private": false,
-    "title": "Historicizing We Didn't Start the Fire",
-    "description": "This project examines Billy Joel’s “We Didn’t Start the Fire” (1989) as both a cultural artifact and a historical text. By unpacking the song’s rapid-fire litany of postwar events, figures, and crises, the project explores how Joel condensed four decades of global and American history into a form that is at once a mnemonic device, a pop anthem, and a commentary on generational responsibility.",
+    "title": "Historicizing the We Didn't Start the Fires",
+    "description": "This project historicizes and contextualizes Billy Joel’s “We Didn’t Start the Fire” (1989) and Fall Out Boy’s updated “We Didn’t Start the Fire” (2023), examining how each song catalogs major events of its era to construct a rapid-fire cultural history. By comparing Joel’s Cold War–era litany of postwar figures and crises with Fall Out Boy’s twenty-first-century references, the project highlights shifting ideas about what counts as historically significant, how memory is condensed into popular culture, and the different generational anxieties each version reflects. Together, the songs provide a lens for analyzing changes in historical consciousness, popular pedagogy, and the role of music as a vehicle for narrating the past.",
     "language": "en",
     "slug": "historicizing-wdstf",
     "creator": "raymondhyser",
@@ -46,7 +46,7 @@
       ]
     },
     "created_at": "2025-09-21T22:37:35.571Z",
-    "updated_at": "2025-09-22T03:42:41.558Z",
+    "updated_at": "2025-09-22T03:48:21.807Z",
     "generate_pages_site": true
   },
   "annotations": {},
