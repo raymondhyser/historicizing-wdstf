@@ -1,1 +1,1354 @@
-{"annotations":[],"set":"Default","event_id":"a142c826-34d6-4b2a-b22a-3e81f3102332","source_id":"67c360f2-9b81-4702-babe-3aba4d00cd84"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "INTRO"
+        }
+      ],
+      "uuid": "1791104f-3c81-4bce-8a05-c4d93264c4ac"
+    },
+    {
+      "start_time": 14,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harry Truman, Doris Day"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8be5557-d3cf-43c2-9644-0341edefa6af"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red China, Johnnie Ray"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "96513289-7cbe-4fab-bd76-e141f5d24af8"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "South Pacific"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4abcb84b-9be5-400c-85ec-0f54868f3945"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Walter Winchell, Joe DiMaggio"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c60d8e30-7737-43e4-92c4-0a7dfb3684c2"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Joe McCarthy, Richard Nixon"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6b6d7445-ff92-4628-8b22-f4be7ab61337"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Studebaker, television"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "03f46275-3ce2-401d-b0b9-4cf76891fb46"
+    },
+    {
+      "start_time": 24,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "North Korea, South Korea"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd4ad52c-3415-4fe0-9300-e3dd4ac8109c"
+    },
+    {
+      "start_time": 25,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marilyn Monroe"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bb5307e8-2eb8-49bb-a6d2-cd9022e16ec6"
+    },
+    {
+      "start_time": 27,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interlude"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f045874d-0c7b-4d00-9a85-6dcd054f19a5"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rosenbergs, H-Bomb"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0b85e45d-dd63-4357-8dcd-a188e75ef136"
+    },
+    {
+      "start_time": 35,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sugar Ray, P'anmunjÇm"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "32d1f4c3-70ec-4c3f-b9de-9e5ff1656cf2"
+    },
+    {
+      "start_time": 37,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brando, The King and I and The Catcher in the Rye"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d198b0ae-6f20-4515-b0bf-b21370cf4cda"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eisenhower, vaccine"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ec03e9e-a9ed-46f3-b679-5fbd619af9f3"
+    },
+    {
+      "start_time": 42,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "England's got a new queen"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcad924c-9944-4c9c-923d-f1833b97a77c"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marciano, Liberace"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "654d5d29-4821-4928-b6ff-ec47c00efbcb"
+    },
+    {
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Santayana goodbye"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3068375f-575d-4c44-9756-ddc6aad86dda"
+    },
+    {
+      "start_time": 47,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. No, we didn't light it, ut we tried to fight it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "CHORUS"
+        }
+      ],
+      "uuid": "4a4e7efb-18ff-4316-af1c-a4e005fbe782"
+    },
+    {
+      "start_time": 60,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Joseph Stalin, Malenkov"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9653ad63-b08b-4368-a02a-bf193c3ad242"
+    },
+    {
+      "start_time": 62,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nasser and Prokofiev"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c0a108af-08a7-4d45-9a57-669d5f51dced"
+    },
+    {
+      "start_time": 64,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rockefeller, Campanella"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e139755-a718-4443-aec2-9c86a0e50850"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Communist Bloc"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "60186cb6-c37d-413d-8ad1-34a7bd71727a"
+    },
+    {
+      "start_time": 67,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Roy Cohn, Juan Peron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c9cb9df-85d3-4564-8148-634bc7d6843e"
+    },
+    {
+      "start_time": 69,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toscanini, Dacron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7aba7be6-8512-4c3d-9dc4-84cfb18d7f0c"
+    },
+    {
+      "start_time": 70,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dien Bien Phu Falls, \"Rock Around the Clock\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da30cbd3-9276-42da-a35f-4d6379253433"
+    },
+    {
+      "start_time": 73,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Einstein, James Dean"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "071ffa40-174a-49fc-9772-2bf7c4d59816"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Brooklyn's got a winning team"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "02c4acd9-a462-4b29-8f26-bc450f5a5610"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Davy Crockett, Peter Pan"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e46bf4b-3448-42a9-9ef6-4fbba11b19c3"
+    },
+    {
+      "start_time": 79,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elvis Presley, Disneyland"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b6aa4705-b030-4434-9e2f-aa8e423c76ca"
+    },
+    {
+      "start_time": 80,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bardot, Budapest, Alabama, Khrushchev"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0770b950-efbf-4096-afa6-2ec37bd5c222"
+    },
+    {
+      "start_time": 84,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Princess Grace, Peyton Place"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a239089b-11d3-4319-b319-f9f3e8909eca"
+    },
+    {
+      "start_time": 85,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trouble in the Suez"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5865125e-a437-4d76-b4ae-dbbfbd68e8ec"
+    },
+    {
+      "start_time": 87,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. No, we didn't light it, ut we tried to fight it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "CHORUS"
+        }
+      ],
+      "uuid": "b0aed2e4-a3a4-440b-bb6d-b6df06fc0c79"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little Rock, Pasternak"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b858a653-2310-4357-ae0f-99ce947b5d5c"
+    },
+    {
+      "start_time": 102,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mickey Mantle, Kerouac"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d39cd7a4-7a65-4c43-a803-ef15df8a80d1"
+    },
+    {
+      "start_time": 103,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sputnik, Zhou En-lai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0727cc44-dd40-404b-bdb7-14930718dd51"
+    },
+    {
+      "start_time": 105,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bridge On The River Kwai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d60c51db-5945-42e8-9e4e-63e6f0cef5c1"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lebanon, Charles de Gaulle"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b14bb091-ce74-4f58-9ede-d151742ad887"
+    },
+    {
+      "start_time": 108,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "California baseball"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4ffd391-f8e6-408f-aca9-30e47a748675"
+    },
+    {
+      "start_time": 110,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Starkweather Homicide"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c53e0b13-cadc-49ef-ae67-aed0d32af03b"
+    },
+    {
+      "start_time": 112,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children of Thalidomide"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d6b6f208-bd63-453d-a45b-8fe7a285ad1e"
+    },
+    {
+      "start_time": 113,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, oh, oh, oh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd66ff54-04d2-44a6-b889-05c617d8af0e"
+    },
+    {
+      "start_time": 117,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Buddy Holly, Ben-Hur"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f38a5cc0-a9f5-4707-ba4e-3bc8388c7e80"
+    },
+    {
+      "start_time": 118,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space Monkey, Mafia"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29cb77f3-580a-4945-8e5d-a9ee8f9dea44"
+    },
+    {
+      "start_time": 120,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hula Hoops, Castro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4264fb29-2966-4425-9e5e-1929d6702eac"
+    },
+    {
+      "start_time": 122,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Edsel is a no-go"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae8eae4c-63e8-4cc2-b034-da5b4d8f355c"
+    },
+    {
+      "start_time": 123,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "U-2, Syngman Rhee"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "babe54e2-bf3b-45ea-917f-aa104b3810fb"
+    },
+    {
+      "start_time": 125,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Payola and Kennedy"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "583a3edf-9526-4c44-8952-8b6cbe61d2e9"
+    },
+    {
+      "start_time": 127,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chubby Checker, Psycho"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1bb1f621-a83e-48f7-bb2d-e72719d01c78"
+    },
+    {
+      "start_time": 128,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Belgians in the Congo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6df9fc89-3bd9-472d-9704-4ddcea5a2313"
+    },
+    {
+      "start_time": 130,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. No, we didn't light it, ut we tried to fight it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "CHORUS"
+        }
+      ],
+      "uuid": "6867e550-0f20-4259-b41f-3150d2e20614"
+    },
+    {
+      "start_time": 143,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemingway, Eichmann"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7e236f4-d575-4e46-96b2-257b36da94e9"
+    },
+    {
+      "start_time": 145,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stranger in a Strange Land"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "33d87557-e5a3-4899-bac0-0cb1c4165b74"
+    },
+    {
+      "start_time": 147,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dylan, Berlin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9acba3df-58d9-484b-adb6-c2cb587b4a34"
+    },
+    {
+      "start_time": 148,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bay of Pigs invasion"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c635f90c-1bdb-4e04-9966-23c905ad3064"
+    },
+    {
+      "start_time": 150,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lawrence of Arabia"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b0eb783-1272-4a27-ad43-9dd6ca56fdc4"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "British Beatlemania"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5bbccb3b-4846-4217-ab85-60603e85b71b"
+    },
+    {
+      "start_time": 153,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ole Miss, John Glenn"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc458b04-fa93-4131-aee4-d2a03a803a3e"
+    },
+    {
+      "start_time": 155,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liston beats Patterson"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83c1934c-00fb-4764-95a5-2f0a0c45b938"
+    },
+    {
+      "start_time": 157,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pope Paul, Malcolm X"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "19a08bff-8df2-46ae-82a7-28ec726eb52a"
+    },
+    {
+      "start_time": 158,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "British politician sex"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ae9fb88-deaa-4e9e-bb07-a7f80acbcb71"
+    },
+    {
+      "start_time": 160,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "J.F.K. blown away"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ea0f19a-cfff-4ebe-a3ae-9edfc14f6508"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What else do I have to say?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d9320669-3d3e-4c79-9b15-9a76ba943e7f"
+    },
+    {
+      "start_time": 163,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. No, we didn't light it, ut we tried to fight it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "CHORUS"
+        }
+      ],
+      "uuid": "ea207186-4081-4a82-80a4-2114b89c6e78"
+    },
+    {
+      "start_time": 177,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Birth control, Ho Chi Minh"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7845a06e-6b91-46ca-867d-d4e5e99f21fe"
+    },
+    {
+      "start_time": 178,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Richard Nixon back again"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ae1319b-10d1-4c18-9d4d-a24941f8c84f"
+    },
+    {
+      "start_time": 180,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moonshot, Woodstock"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "323e1a24-6832-452b-94eb-67a0486d9a02"
+    },
+    {
+      "start_time": 181,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Watergate, punk rock"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fff66809-6a35-4e75-8fc4-cfe7ce924bf9"
+    },
+    {
+      "start_time": 183,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Begin, Reagan, Palestine"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5104ee9c-d511-447d-aafa-6748b3f15d59"
+    },
+    {
+      "start_time": 185,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Terror on the airline"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "88cb058b-1725-43f4-9f2f-565cfe58f776"
+    },
+    {
+      "start_time": 186,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ayatollahs in Iran"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1cf5a6c9-9444-4d90-9788-ba4f76cc4b74"
+    },
+    {
+      "start_time": 188,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Russians in Afghanistan"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2aa76019-50a4-4d1a-802f-e5bf1e0c9171"
+    },
+    {
+      "start_time": 190,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wheel of Fortune, Sally Ride"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61624b34-3576-4328-8699-9aae7e4bf909"
+    },
+    {
+      "start_time": 191,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Heavy metal suicide"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a572cf1-c155-462e-90ca-54afba673499"
+    },
+    {
+      "start_time": 193,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Foreign debts, homeless vets"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2379d146-c1fb-4b95-a9f3-3097ef407d14"
+    },
+    {
+      "start_time": 195,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AIDS, crack, Bernie Goetz"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a977c179-4a73-44fd-921e-b583c3d4b88d"
+    },
+    {
+      "start_time": 196,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hypodermics on the shores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e9ae0b95-82d6-4666-a2bc-89aae2f044fc"
+    },
+    {
+      "start_time": 198,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "China's under martial law"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "857a02e1-9b95-47bf-9af8-133800aaf8b1"
+    },
+    {
+      "start_time": 200,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rock and Roller cola wars"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13c413ec-b45e-4084-b0c1-1972e57e1d55"
+    },
+    {
+      "start_time": 201,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't take it anymore"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b75e929c-7282-4ded-80af-2af5c8893d9c"
+    },
+    {
+      "start_time": 203,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. But when we are gone it will still burn on. And on, and on, and on, and on, and on, and on, and on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "CHORUS"
+        }
+      ],
+      "uuid": "31f98407-aef0-4e83-988e-4517718802e0"
+    },
+    {
+      "start_time": 223,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We didn't start the fire. It was always burning since the world's been turning. We didn't start the fire. No, we didn't light it, but we tried to fight it. We didn't start the fire. It was always burning since the world's been turning. We didn't start..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "OUTRO"
+        }
+      ],
+      "uuid": "f025ddb1-ae69-4d22-9911-9abc753c0be4"
+    }
+  ],
+  "set": "Default",
+  "event_id": "a142c826-34d6-4b2a-b22a-3e81f3102332",
+  "source_id": "67c360f2-9b81-4702-babe-3aba4d00cd84"
+}
