@@ -1,0 +1,42 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " <button onclick=\"window.location.href='https://av-annotate.org/';\">",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "code": true,
+          "text": "    Go to AVAnnotate"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "code": true,
+          "text": "  </button>"
+        }
+      ]
+    }
+  ],
+  "title": "Test Page",
+  "parent": "5fd2fbd3-9b57-4894-a04a-5cba157dd4e8",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-page",
+  "created_at": "2025-10-10T15:19:14.024Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2025-10-10T15:19:14.024Z",
+  "updated_by": "raymondhyser"
+}
