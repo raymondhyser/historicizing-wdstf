@@ -146,7 +146,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Subjects",
+          "tag": "War"
+        },
+        {
+          "category": "Themes",
+          "tag": "War"
+        }
+      ],
       "uuid": "bb5307e8-2eb8-49bb-a6d2-cd9022e16ec6"
     },
     {
